@@ -25,15 +25,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61592031400983",
-    "61589129806243"
+    "100080077652459",
+    
   ],
   "developer": [
-    "61592031400983",
-    "61589129806243"
+    "100080077652459",
+    ""
   ],
   "vipuser": [
-    "61592031400983",
+    "100080077652459",
     "61589129806243"
   ],
   "premium": [
@@ -41,7 +41,7 @@
     "61589129806243"
   ],
   "creator": [
-    "61592031400983",
+    "100080077652459",
     "61575452277462",
     "61589129806243"
   ],
@@ -69,7 +69,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V3",
+  "nickNameBot": "Angela",
   "prefix": ")",
   "database": {
     "type": "mongodb",
